@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: 974853406969.dkr.ecr.us-east-1.amazonaws.com/promotionecr
+  repository: 186319575019.dkr.ecr.us-east-1.amazonaws.com/dev-promotion-assessment
   pullPolicy: Always
   tag: "20211030.6"
 
